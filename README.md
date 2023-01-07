@@ -17,4 +17,4 @@ ___
 
 **Блок схема**
 
-![Блок-схема](/1111.png) [код](/program/Program.cs)
+![Блок-схема](/program/1111.png) [код](/program/Program.cs)
